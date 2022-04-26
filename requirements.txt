@@ -1,0 +1,9 @@
+### dependency
+streamlit
+numpy
+notebook
+scipy
+sklearn
+
+### local packages -
+-e . 
